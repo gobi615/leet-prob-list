@@ -1,0 +1,786 @@
+[
+  {
+    "probs_id": 1,
+    "leet_probs_id": 13
+  },
+  {
+    "probs_id": 2,
+    "leet_probs_id": 14
+  },
+  {
+    "probs_id": 3,
+    "leet_probs_id": 20
+  },
+  {
+    "probs_id": 4,
+    "leet_probs_id": 21
+  },
+  {
+    "probs_id": 5,
+    "leet_probs_id": 26
+  },
+  {
+    "probs_id": 6,
+    "leet_probs_id": 28
+  },
+  {
+    "probs_id": 7,
+    "leet_probs_id": 35
+  },
+  {
+    "probs_id": 8,
+    "leet_probs_id": 53
+  },
+  {
+    "probs_id": 9,
+    "leet_probs_id": 66
+  },
+  {
+    "probs_id": 10,
+    "leet_probs_id": 67
+  },
+  {
+    "probs_id": 11,
+    "leet_probs_id": 69
+  },
+  {
+    "probs_id": 12,
+    "leet_probs_id": 70
+  },
+  {
+    "probs_id": 13,
+    "leet_probs_id": 88
+  },
+  {
+    "probs_id": 14,
+    "leet_probs_id": 94
+  },
+  {
+    "probs_id": 15,
+    "leet_probs_id": 100
+  },
+  {
+    "probs_id": 16,
+    "leet_probs_id": 101
+  },
+  {
+    "probs_id": 17,
+    "leet_probs_id": 104
+  },
+  {
+    "probs_id": 18,
+    "leet_probs_id": 108
+  },
+  {
+    "probs_id": 19,
+    "leet_probs_id": 110
+  },
+  {
+    "probs_id": 20,
+    "leet_probs_id": 118
+  },
+  {
+    "probs_id": 21,
+    "leet_probs_id": 121
+  },
+  {
+    "probs_id": 22,
+    "leet_probs_id": 125
+  },
+  {
+    "probs_id": 23,
+    "leet_probs_id": 136
+  },
+  {
+    "probs_id": 24,
+    "leet_probs_id": 141
+  },
+  {
+    "probs_id": 25,
+    "leet_probs_id": 155
+  },
+  {
+    "probs_id": 26,
+    "leet_probs_id": 160
+  },
+  {
+    "probs_id": 27,
+    "leet_probs_id": 169
+  },
+  {
+    "probs_id": 28,
+    "leet_probs_id": 171
+  },
+  {
+    "probs_id": 29,
+    "leet_probs_id": 190
+  },
+  {
+    "probs_id": 30,
+    "leet_probs_id": 191
+  },
+  {
+    "probs_id": 31,
+    "leet_probs_id": 202
+  },
+  {
+    "probs_id": 32,
+    "leet_probs_id": 206
+  },
+  {
+    "probs_id": 33,
+    "leet_probs_id": 217
+  },
+  {
+    "probs_id": 34,
+    "leet_probs_id": 226
+  },
+  {
+    "probs_id": 35,
+    "leet_probs_id": 232
+  },
+  {
+    "probs_id": 36,
+    "leet_probs_id": 234
+  },
+  {
+    "probs_id": 37,
+    "leet_probs_id": 235
+  },
+  {
+    "probs_id": 38,
+    "leet_probs_id": 237
+  },
+  {
+    "probs_id": 39,
+    "leet_probs_id": 242
+  },
+  {
+    "probs_id": 40,
+    "leet_probs_id": 268
+  },
+  {
+    "probs_id": 41,
+    "leet_probs_id": 278
+  },
+  {
+    "probs_id": 42,
+    "leet_probs_id": 283
+  },
+  {
+    "probs_id": 43,
+    "leet_probs_id": 326
+  },
+  {
+    "probs_id": 44,
+    "leet_probs_id": 338
+  },
+  {
+    "probs_id": 45,
+    "leet_probs_id": 344
+  },
+  {
+    "probs_id": 46,
+    "leet_probs_id": 350
+  },
+  {
+    "probs_id": 47,
+    "leet_probs_id": 383
+  },
+  {
+    "probs_id": 48,
+    "leet_probs_id": 387
+  },
+  {
+    "probs_id": 49,
+    "leet_probs_id": 409
+  },
+  {
+    "probs_id": 50,
+    "leet_probs_id": 412
+  },
+  {
+    "probs_id": 51,
+    "leet_probs_id": 543
+  },
+  {
+    "probs_id": 52,
+    "leet_probs_id": 572
+  },
+  {
+    "probs_id": 53,
+    "leet_probs_id": 617
+  },
+  {
+    "probs_id": 54,
+    "leet_probs_id": 704
+  },
+  {
+    "probs_id": 55,
+    "leet_probs_id": 733
+  },
+  {
+    "probs_id": 56,
+    "leet_probs_id": 876
+  },
+  {
+    "probs_id": 57,
+    "leet_probs_id": 2
+  },
+  {
+    "probs_id": 58,
+    "leet_probs_id": 3
+  },
+  {
+    "probs_id": 59,
+    "leet_probs_id": 5
+  },
+  {
+    "probs_id": 60,
+    "leet_probs_id": 7
+  },
+  {
+    "probs_id": 61,
+    "leet_probs_id": 8
+  },
+  {
+    "probs_id": 62,
+    "leet_probs_id": 11
+  },
+  {
+    "probs_id": 63,
+    "leet_probs_id": 15
+  },
+  {
+    "probs_id": 64,
+    "leet_probs_id": 17
+  },
+  {
+    "probs_id": 65,
+    "leet_probs_id": 19
+  },
+  {
+    "probs_id": 66,
+    "leet_probs_id": 22
+  },
+  {
+    "probs_id": 67,
+    "leet_probs_id": 24
+  },
+  {
+    "probs_id": 68,
+    "leet_probs_id": 29
+  },
+  {
+    "probs_id": 69,
+    "leet_probs_id": 31
+  },
+  {
+    "probs_id": 70,
+    "leet_probs_id": 33
+  },
+  {
+    "probs_id": 71,
+    "leet_probs_id": 34
+  },
+  {
+    "probs_id": 72,
+    "leet_probs_id": 36
+  },
+  {
+    "probs_id": 73,
+    "leet_probs_id": 38
+  },
+  {
+    "probs_id": 74,
+    "leet_probs_id": 39
+  },
+  {
+    "probs_id": 75,
+    "leet_probs_id": 45
+  },
+  {
+    "probs_id": 76,
+    "leet_probs_id": 46
+  },
+  {
+    "probs_id": 77,
+    "leet_probs_id": 48
+  },
+  {
+    "probs_id": 78,
+    "leet_probs_id": 49
+  },
+  {
+    "probs_id": 79,
+    "leet_probs_id": 50
+  },
+  {
+    "probs_id": 80,
+    "leet_probs_id": 54
+  },
+  {
+    "probs_id": 81,
+    "leet_probs_id": 55
+  },
+  {
+    "probs_id": 82,
+    "leet_probs_id": 56
+  },
+  {
+    "probs_id": 83,
+    "leet_probs_id": 57
+  },
+  {
+    "probs_id": 84,
+    "leet_probs_id": 62
+  },
+  {
+    "probs_id": 85,
+    "leet_probs_id": 64
+  },
+  {
+    "probs_id": 86,
+    "leet_probs_id": 73
+  },
+  {
+    "probs_id": 87,
+    "leet_probs_id": 74
+  },
+  {
+    "probs_id": 88,
+    "leet_probs_id": 75
+  },
+  {
+    "probs_id": 89,
+    "leet_probs_id": 78
+  },
+  {
+    "probs_id": 90,
+    "leet_probs_id": 79
+  },
+  {
+    "probs_id": 91,
+    "leet_probs_id": 91
+  },
+  {
+    "probs_id": 92,
+    "leet_probs_id": 96
+  },
+  {
+    "probs_id": 93,
+    "leet_probs_id": 98
+  },
+  {
+    "probs_id": 94,
+    "leet_probs_id": 102
+  },
+  {
+    "probs_id": 95,
+    "leet_probs_id": 103
+  },
+  {
+    "probs_id": 96,
+    "leet_probs_id": 105
+  },
+  {
+    "probs_id": 97,
+    "leet_probs_id": 114
+  },
+  {
+    "probs_id": 98,
+    "leet_probs_id": 116
+  },
+  {
+    "probs_id": 99,
+    "leet_probs_id": 122
+  },
+  {
+    "probs_id": 100,
+    "leet_probs_id": 128
+  },
+  {
+    "probs_id": 101,
+    "leet_probs_id": 130
+  },
+  {
+    "probs_id": 102,
+    "leet_probs_id": 131
+  },
+  {
+    "probs_id": 103,
+    "leet_probs_id": 133
+  },
+  {
+    "probs_id": 104,
+    "leet_probs_id": 134
+  },
+  {
+    "probs_id": 105,
+    "leet_probs_id": 138
+  },
+  {
+    "probs_id": 106,
+    "leet_probs_id": 139
+  },
+  {
+    "probs_id": 107,
+    "leet_probs_id": 142
+  },
+  {
+    "probs_id": 108,
+    "leet_probs_id": 143
+  },
+  {
+    "probs_id": 109,
+    "leet_probs_id": 146
+  },
+  {
+    "probs_id": 110,
+    "leet_probs_id": 148
+  },
+  {
+    "probs_id": 111,
+    "leet_probs_id": 150
+  },
+  {
+    "probs_id": 112,
+    "leet_probs_id": 152
+  },
+  {
+    "probs_id": 113,
+    "leet_probs_id": 153
+  },
+  {
+    "probs_id": 114,
+    "leet_probs_id": 162
+  },
+  {
+    "probs_id": 115,
+    "leet_probs_id": 166
+  },
+  {
+    "probs_id": 116,
+    "leet_probs_id": 172
+  },
+  {
+    "probs_id": 117,
+    "leet_probs_id": 179
+  },
+  {
+    "probs_id": 118,
+    "leet_probs_id": 189
+  },
+  {
+    "probs_id": 119,
+    "leet_probs_id": 198
+  },
+  {
+    "probs_id": 120,
+    "leet_probs_id": 199
+  },
+  {
+    "probs_id": 121,
+    "leet_probs_id": 200
+  },
+  {
+    "probs_id": 122,
+    "leet_probs_id": 204
+  },
+  {
+    "probs_id": 123,
+    "leet_probs_id": 207
+  },
+  {
+    "probs_id": 124,
+    "leet_probs_id": 208
+  },
+  {
+    "probs_id": 125,
+    "leet_probs_id": 210
+  },
+  {
+    "probs_id": 126,
+    "leet_probs_id": 211
+  },
+  {
+    "probs_id": 127,
+    "leet_probs_id": 213
+  },
+  {
+    "probs_id": 128,
+    "leet_probs_id": 215
+  },
+  {
+    "probs_id": 129,
+    "leet_probs_id": 221
+  },
+  {
+    "probs_id": 130,
+    "leet_probs_id": 227
+  },
+  {
+    "probs_id": 131,
+    "leet_probs_id": 230
+  },
+  {
+    "probs_id": 132,
+    "leet_probs_id": 236
+  },
+  {
+    "probs_id": 133,
+    "leet_probs_id": 238
+  },
+  {
+    "probs_id": 134,
+    "leet_probs_id": 240
+  },
+  {
+    "probs_id": 135,
+    "leet_probs_id": 279
+  },
+  {
+    "probs_id": 136,
+    "leet_probs_id": 287
+  },
+  {
+    "probs_id": 137,
+    "leet_probs_id": 289
+  },
+  {
+    "probs_id": 138,
+    "leet_probs_id": 300
+  },
+  {
+    "probs_id": 139,
+    "leet_probs_id": 310
+  },
+  {
+    "probs_id": 140,
+    "leet_probs_id": 322
+  },
+  {
+    "probs_id": 141,
+    "leet_probs_id": 324
+  },
+  {
+    "probs_id": 142,
+    "leet_probs_id": 328
+  },
+  {
+    "probs_id": 143,
+    "leet_probs_id": 334
+  },
+  {
+    "probs_id": 144,
+    "leet_probs_id": 341
+  },
+  {
+    "probs_id": 145,
+    "leet_probs_id": 347
+  },
+  {
+    "probs_id": 146,
+    "leet_probs_id": 371
+  },
+  {
+    "probs_id": 147,
+    "leet_probs_id": 378
+  },
+  {
+    "probs_id": 148,
+    "leet_probs_id": 380
+  },
+  {
+    "probs_id": 149,
+    "leet_probs_id": 384
+  },
+  {
+    "probs_id": 150,
+    "leet_probs_id": 394
+  },
+  {
+    "probs_id": 151,
+    "leet_probs_id": 395
+  },
+  {
+    "probs_id": 152,
+    "leet_probs_id": 416
+  },
+  {
+    "probs_id": 153,
+    "leet_probs_id": 417
+  },
+  {
+    "probs_id": 154,
+    "leet_probs_id": 424
+  },
+  {
+    "probs_id": 155,
+    "leet_probs_id": 435
+  },
+  {
+    "probs_id": 156,
+    "leet_probs_id": 437
+  },
+  {
+    "probs_id": 157,
+    "leet_probs_id": 438
+  },
+  {
+    "probs_id": 158,
+    "leet_probs_id": 449
+  },
+  {
+    "probs_id": 159,
+    "leet_probs_id": 454
+  },
+  {
+    "probs_id": 160,
+    "leet_probs_id": 494
+  },
+  {
+    "probs_id": 161,
+    "leet_probs_id": 542
+  },
+  {
+    "probs_id": 162,
+    "leet_probs_id": 560
+  },
+  {
+    "probs_id": 163,
+    "leet_probs_id": 621
+  },
+  {
+    "probs_id": 164,
+    "leet_probs_id": 647
+  },
+  {
+    "probs_id": 165,
+    "leet_probs_id": 721
+  },
+  {
+    "probs_id": 166,
+    "leet_probs_id": 739
+  },
+  {
+    "probs_id": 167,
+    "leet_probs_id": 763
+  },
+  {
+    "probs_id": 168,
+    "leet_probs_id": 973
+  },
+  {
+    "probs_id": 169,
+    "leet_probs_id": 981
+  },
+  {
+    "probs_id": 170,
+    "leet_probs_id": 994
+  },
+  {
+    "probs_id": 171,
+    "leet_probs_id": 1143
+  },
+  {
+    "probs_id": 172,
+    "leet_probs_id": 4
+  },
+  {
+    "probs_id": 173,
+    "leet_probs_id": 10
+  },
+  {
+    "probs_id": 174,
+    "leet_probs_id": 23
+  },
+  {
+    "probs_id": 175,
+    "leet_probs_id": 25
+  },
+  {
+    "probs_id": 176,
+    "leet_probs_id": 32
+  },
+  {
+    "probs_id": 177,
+    "leet_probs_id": 41
+  },
+  {
+    "probs_id": 178,
+    "leet_probs_id": 42
+  },
+  {
+    "probs_id": 179,
+    "leet_probs_id": 44
+  },
+  {
+    "probs_id": 180,
+    "leet_probs_id": 72
+  },
+  {
+    "probs_id": 181,
+    "leet_probs_id": 76
+  },
+  {
+    "probs_id": 182,
+    "leet_probs_id": 84
+  },
+  {
+    "probs_id": 183,
+    "leet_probs_id": 85
+  },
+  {
+    "probs_id": 184,
+    "leet_probs_id": 124
+  },
+  {
+    "probs_id": 185,
+    "leet_probs_id": 127
+  },
+  {
+    "probs_id": 186,
+    "leet_probs_id": 140
+  },
+  {
+    "probs_id": 187,
+    "leet_probs_id": 149
+  },
+  {
+    "probs_id": 188,
+    "leet_probs_id": 212
+  },
+  {
+    "probs_id": 189,
+    "leet_probs_id": 218
+  },
+  {
+    "probs_id": 190,
+    "leet_probs_id": 224
+  },
+  {
+    "probs_id": 191,
+    "leet_probs_id": 239
+  },
+  {
+    "probs_id": 192,
+    "leet_probs_id": 295
+  },
+  {
+    "probs_id": 193,
+    "leet_probs_id": 297
+  },
+  {
+    "probs_id": 194,
+    "leet_probs_id": 315
+  },
+  {
+    "probs_id": 195,
+    "leet_probs_id": 329
+  },
+  {
+    "probs_id": 196,
+    "leet_probs_id": 1235
+  }
+]
