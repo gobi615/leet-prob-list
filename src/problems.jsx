@@ -30,7 +30,7 @@ const Problems = () => {
                 <td className="text-center">
                   {p.details && p.details.difficulty}
                 </td>
-                <td>
+                <td className="fw-bold fs-6">
                   <a
                     className="text-decoration-none"
                     href={p.details && leetcode_link + p.details.titleSlug}
