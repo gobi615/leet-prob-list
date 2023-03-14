@@ -32,6 +32,7 @@ const Problems = () => {
                 </td>
                 <td className="fw-bold fs-6">
                   <a
+                    target="_blank"
                     className="text-decoration-none"
                     href={p.details && leetcode_link + p.details.titleSlug}
                   >
