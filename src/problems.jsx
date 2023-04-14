@@ -1,12 +1,10 @@
 import { Fragment } from "react";
 
-import ids from "./data/probs.json";
 import problems from "./data/top_problems.json";
 
-const Problems = () => {
-  //   console.log(ids);
-  //   console.log(problems);
-  const probs_links = getLinks();
+const Problems = (props) => {
+  const probIds = props.set;
+  const probs_links = getLinks(probIds);
   console.log(probs_links.length);
   const leetcode_link = "https://leetcode.com/problems/";
   return (
@@ -52,7 +50,7 @@ const Problems = () => {
   );
 };
 
-const getLinks = () => {
+const getLinks = (ids) => {
   let links = [];
   for (let i = 0; i < ids.length; i++) {
     let obj = { ...ids[i] };
