@@ -15,7 +15,7 @@ const ProblemLists = () => {
     { name: "Set4", id: 4, probIds: set4 },
     { name: "Set5", id: 5, probIds: set5 },
   ];
-  const [activeItem, setActiveItem] = useState(2);
+  const [activeItem, setActiveItem] = useState(4);
 
   const handleItemClick = (item) => {
     setActiveItem(item);
