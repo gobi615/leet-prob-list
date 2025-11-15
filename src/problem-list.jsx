@@ -5,6 +5,7 @@ import set2 from "./data/set2.json";
 import set3 from "./data/set3.json";
 import set4 from "./data/set4.json";
 import set5 from "./data/set5.json";
+import set6 from "./data/set6.json";
 import { Fragment, useState } from "react";
 
 const ProblemLists = () => {
@@ -14,8 +15,9 @@ const ProblemLists = () => {
     { name: "Set3", id: 3, probIds: set3 },
     { name: "Set4", id: 4, probIds: set4 },
     { name: "Set5", id: 5, probIds: set5 },
+    { name: "Set6", id: 6, probIds: set6 },
   ];
-  const [activeItem, setActiveItem] = useState(4);
+  const [activeItem, setActiveItem] = useState(6);
 
   const handleItemClick = (item) => {
     setActiveItem(item);

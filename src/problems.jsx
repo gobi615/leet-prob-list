@@ -38,8 +38,12 @@ const Problems = (props) => {
                   </a>
                 </td>
                 <td>
-                  {p.details &&
-                    p.details.topicTags.map((t) => t.name + ",    ")}
+                  {/* {p.details &&
+                    p.details.topicTags.map((t) => t.name + ",    ")} */}
+                    {p.pattern}
+                </td>
+                 <td>
+                    {p.keywords}
                 </td>
               </tr>
             );
