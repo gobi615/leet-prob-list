@@ -3,8 +3,12 @@ import { Fragment } from "react";
 import problems from "./data/top_problems.json";
 
 const Problems = (props) => {
+  const [patternFilter, setPatternFilter] = React.useState("");
   const probIds = props.set;
-  const probs_links = getLinks(probIds);
+  const allProbs = getLinks(probIds);
+  const probs_links = patternFilter 
+    ? allProbs.filter(p => p.pattern && p.pattern.toLowerCase().includes(patternFilter.toLowerCase()))
+    : allProbs;
   console.log(probs_links.length);
   const leetcode_link = "https://leetcode.com/problems/";
   return (
@@ -12,11 +16,20 @@ const Problems = (props) => {
       <table className="table  table-hover table-bordered text-start">
         <thead>
           <tr>
-            <th>Ids</th>
-            <th>Leetcode Id</th>
-            <th>Difficulty</th>
-            <th>Problem Link</th>
-            <th style={{ width: "30%" }}>Tags</th>
+            <th>ids</th>
+            <th>leetcode id</th>
+            <th>difficulty</th>
+            <th>link</th>
+            <th style={{ width: "30%" }}>pattern 
+              <input
+                type="text"
+                className="form-control form-control-sm mt-1"
+                placeholder="Filter by pattern..."
+                value={patternFilter}
+                onChange={(e) => setPatternFilter(e.target.value)}
+              />
+            </th>
+            <th>keyword</th>
           </tr>
         </thead>
         <tbody>
