@@ -1,9 +1,9 @@
 import { Fragment } from "react";
-
+import { useState } from "react";
 import problems from "./data/top_problems.json";
 
 const Problems = (props) => {
-  const [patternFilter, setPatternFilter] = React.useState("");
+  const [patternFilter, setPatternFilter] = useState("");
   const probIds = props.set;
   const allProbs = getLinks(probIds);
   const probs_links = patternFilter 
